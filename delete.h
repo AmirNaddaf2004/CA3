@@ -1,0 +1,1 @@
+int delete(account *loggedin_acc, int ID);

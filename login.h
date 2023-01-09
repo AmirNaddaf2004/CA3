@@ -1,0 +1,1 @@
+account *login(char *username, char *password, account *head_acc);
